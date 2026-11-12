@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# WorkBuddy local workspace data (contains credentials / memory / automation config)
+.workbuddy/
+signin.log
+qoder_signin.log
